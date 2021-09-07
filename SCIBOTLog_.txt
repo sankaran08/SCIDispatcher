@@ -1,0 +1,11 @@
+﻿09/07/2021 15:31:38 Reading Configaration file
+09/07/2021 15:32:32 Reading Configaration file
+09/07/2021 15:33:12 Killing processes...
+09/07/2021 15:33:12 Killed Excel Application
+09/07/2021 15:33:13 Killed Chrome Application
+09/07/2021 15:33:13 Killed Notepad Application
+09/07/2021 15:39:12 Reading Configaration file
+09/07/2021 15:39:12 Killing processes...
+09/07/2021 15:39:12 Killed Excel Application
+09/07/2021 15:39:12 Killed Chrome Application
+09/07/2021 15:39:12 Killed Notepad Application
